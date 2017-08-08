@@ -1,2 +1,1 @@
-# TechX_Capstone
-Repo for techx shanghai 2017
+# capstone-app
